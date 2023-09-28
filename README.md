@@ -5,7 +5,7 @@
 
 ### Sobre:
 
-O projeto tem como objetivo principal analisar dados utilizando o Power BI através de um dashboard de uma empresa de logistíca.
+O projeto tem como objetivo principal analisar dados utilizando o Power BI através de um dashboard de uma empresa fictícia de logistíca.
 
 ### Proposta:
 
