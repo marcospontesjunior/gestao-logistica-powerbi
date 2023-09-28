@@ -23,12 +23,14 @@ O projeto cujo principal objetivo é a análise de dados por meio da ferramenta 
 
 ### Relatório:
 
-Uma empresa de logística que atende os mais renomados clientes do setor atuavam em transporte e entrega, mas enfrentavam desafios significativos. A pontualidade das entregas e devoluções eram obstáculos que precisavam ser superados.
+Uma empresa de logística que atende os mais renomados clientes do setor atuavam em transporte e entrega, mas enfrentavam desafios significativos.
 ###
 
 <img src="/img/dashboard.png">
 
 ###
+A pontualidade das entregas e devoluções eram obstáculos que precisavam ser superados.
+
 A equipe contava com 6 motoristas para atender as cidades do Rio de Janeiro, São Paulo e Belo Horizonte. Ao longo do período analisado, processaram um total de 4.282 pedidos, alcançando um faturamento total de aproximadamente R$1.452.000,00. 
 Falando sobre o faturamento por cliente, havia uma clara disparidade. A empresa Walmart era o cliente que mais contribuía, com cerca de 393 mil reais, enquanto a Ricardo Eletro tinha a menor contribuição, com aproximadamente 104 mil reais. 
 Um grande desafio era o atraso nas entregas, com surpreendentes 73,21% delas ocorrendo com atraso. Esse fato comprometia a satisfação e demandava ação corretiva.
