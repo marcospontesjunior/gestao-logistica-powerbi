@@ -23,16 +23,16 @@ O projeto cujo principal objetivo é a análise de dados por meio da ferramenta 
 
 ### Relatório:
 
-Uma empresa de logística que atende os mais renomados clientes do setor. Atuavam em transporte e entrega, mas enfrentavam desafios significativos. A pontualidade das entregas e a gestão das devoluções eram obstáculos que precisavam ser superados para garantir a satisfação dos clientes.
+Uma empresa de logística que atende os mais renomados clientes do setor. Atuavam em transporte e entrega, mas enfrentavam desafios significativos. A pontualidade das entregas e devoluções eram obstáculos que precisavam ser superados.
 ###
 
 <img src="/img/dashboard.png">
 
 ###
 A equipe contava com 6 motoristas para atender as cidades do Rio de Janeiro, São Paulo e Belo Horizonte. Ao longo do período analisado, processaram um total de 4.282 pedidos, alcançando um faturamento total de aproximadamente R$1.452.000,00. 
-Falando sobre o faturamento por cliente, havia uma clara disparidade. A empresa Wallmart era o cliente que mais contribuía, com cerca de 393 mil reais, enquanto a Ricardo Eletro tinha a menor contribuição, com aproximadamente 104 mil reais. 
-Um grande desafio era o atraso nas entregas, com surpreendentes 73,21% delas ocorrendo com atraso. Esse fato comprometia a satisfação dos clientes e demandava ação corretiva.
- Os motivos de devolução também eram uma preocupação. Mais de 30% dos produtos apresentavam problemas, com destaque para Produtos Errados e Danificados. Por outro lado, cerca de 24,75% dos produtos não tiveram problemas para serem devolvidos.
+Falando sobre o faturamento por cliente, havia uma clara disparidade. A empresa Walmart era o cliente que mais contribuía, com cerca de 393 mil reais, enquanto a Ricardo Eletro tinha a menor contribuição, com aproximadamente 104 mil reais. 
+Um grande desafio era o atraso nas entregas, com surpreendentes 73,21% delas ocorrendo com atraso. Esse fato comprometia a satisfação e demandava ação corretiva.
+Os motivos de devolução também eram uma preocupação. Mais de 30% dos produtos apresentavam problemas, com destaque para Produtos Errados e Danificados. Por outro lado, apenas 24,75% dos produtos não tiveram problemas com devoluções.
 
 No ano de 2019, a empresa obteve um faturamento total de R$107 mil, proveniente de 107 pedidos. Desse faturamento, 69% dos pedidos apresentaram atrasos nas entregas. O maior contribuinte para o faturamento foi o Walmart, exceto em São Paulo, onde a Magazine Luiza assumiu a liderança com R$11.580 mil. Em relação às devoluções, São Paulo teve a maior taxa, seguida pelo Rio de Janeiro devido a produtos danificados. Em contrapartida, Belo Horizonte demonstrou o melhor desempenho, com 33,33% dos produtos não resultando em devoluções em seguida São Paulo que também teve uma taxa significativa. Das devoluções em Belo Horizonte, a Americanas teve a menor taxa de devolução, com 53,85%.
 
