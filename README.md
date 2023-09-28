@@ -26,7 +26,7 @@ O projeto cujo principal objetivo é a análise de dados por meio da ferramenta 
 Uma empresa de logística que atende os mais renomados clientes do setor atuavam em transporte e entrega, mas enfrentavam desafios significativos.
 ###
 
-<img src="/img/dashboard.png">
+<img src="/img/dashboard_logistica.png">
 
 ###
 A pontualidade das entregas e devoluções eram obstáculos que precisavam ser superados.
