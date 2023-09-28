@@ -25,7 +25,7 @@ O projeto tem como objetivo principal analisar os dados utilizando o Power BI at
 
 Uma empresa de logística que atende os mais renomados clientes do setor. Atuavam em transporte e entrega, mas enfrentavam desafios significativos. A pontualidade das entregas e a gestão das devoluções eram obstáculos que precisavam ser superados para garantir a satisfação dos clientes.
 
-<img src="/img/">
+<img src="/img/dashboard.png">
 
 A equipe contava com 6 motoristas para atender as cidades do Rio de Janeiro, São Paulo e Belo Horizonte. Ao longo do período analisado, processaram um total de 4.282 pedidos, alcançando um faturamento total de aproximadamente R$1.452.000,00. 
 Falando sobre o faturamento por cliente, havia uma clara disparidade. A empresa Wallmart era o cliente que mais contribuía, com cerca de 393 mil reais, enquanto a Ricardo Eletro tinha a menor contribuição, com aproximadamente 104 mil reais. 
