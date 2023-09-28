@@ -12,7 +12,7 @@ O projeto tem como objetivo principal analisar dados utilizando o Power BI atrav
 O projeto cujo principal objetivo é a análise de dados por meio da ferramenta Power BI, através da criação de um dashboard personalizado para uma empresa do setor de logística. A iniciativa tem como finalidade central a otimização da interpretação e apresentação de informações essenciais, fornecendo insights valiosos para a tomada de decisões estratégicas.
 
 ### Estrutura do Repositório:
-- <strong>data:</strong> Encontrará o arquivo ** .xlsx** com os dados utilizados para a análise.
+- <strong>data:</strong> Encontrará o arquivo **.xlsx** com os dados utilizados para a análise.
 - <strong>img:</strong> Aqui você encontrará o print do dashboard.
 - <strong>pbix:</strong> Este diretório contém o arquivo onde foi feito o dashboard e  análise foi realizada.
 - <strong>readme_translated:</strong> This repository contains the **PDF** with the **report** translated into English.
