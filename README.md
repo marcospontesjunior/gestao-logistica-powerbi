@@ -5,11 +5,11 @@
 
 ### Sobre:
 
-Este projeto visa fazer análise de uma empresa fictícia de logistíca.
+O projeto tem como objetivo principal analisar dados utilizando o Power BI através de um dashboard de uma empresa de logistíca.
 
 ### Proposta:
 
-O projeto tem como objetivo principal analisar dados utilizando o Power BI através de um dashboard de uma empresa de logistíca.
+O projeto cujo principal objetivo é a análise de dados por meio da ferramenta Power BI, através da criação de um dashboard personalizado para uma empresa do setor de logística. A iniciativa tem como finalidade central a otimização da interpretação e apresentação de informações essenciais, fornecendo insights valiosos para a tomada de decisões estratégicas.
 
 ### Estrutura do Repositório:
 - <strong>data:</strong> Encontrará o arquivo ** .xlsx** com os dados utilizados para a análise.
