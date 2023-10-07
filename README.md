@@ -3,7 +3,7 @@
 ###
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT) 
 
-### Sobre:
+### Sobre: 
 
 O projeto visa compreender os desafios operacionais enfrentados por uma empresa de logística que atende clientes de renome no setor.
 
